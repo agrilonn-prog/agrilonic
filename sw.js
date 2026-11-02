@@ -1,5 +1,5 @@
 /* Service worker Agrilonic — naikkan VERSION setiap kali index.html / file Plus diubah */
-const VERSION = 'agrilonic-v2';
+const VERSION = 'agrilonic-v3';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './agrilonic-plus.css', './agrilonic-plus.js',
   './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png', './icons/apple-touch-icon.png', './icons/favicon-32.png'];
 const CDN_HOSTS = ['cdn.tailwindcss.com','cdn.jsdelivr.net','cdnjs.cloudflare.com','fonts.googleapis.com','fonts.gstatic.com'];
